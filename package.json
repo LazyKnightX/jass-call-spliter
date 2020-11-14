@@ -1,0 +1,12 @@
+{
+  "name": "jass-call-spliter",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "lazyknightx",
+  "license": "MIT",
+  "repository": "github:LazyKnightX/jass-call-spliter"
+}
